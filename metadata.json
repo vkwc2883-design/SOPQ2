@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise LMS & AI Quiz Generator",
+  "description": "Comprehensive Learning Management System with role-based access control, SOP document management, AI quiz generation up to 30 questions, and gradebooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
